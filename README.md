@@ -12,3 +12,5 @@ Olá!👋 Bem-vindo ao meu Github!
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ck49871&layout=donut&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N1ck49871&theme=transparent&border_radius=5&card_width=500)](https://git.io/streak-stats)
