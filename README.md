@@ -1,5 +1,5 @@
 Olá!👋 Bem-vindo ao meu Github!
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=That+which+does+not+kill+us+makes+us+stronger&author=Nietzsche&width=1000)](https://github.com/piyushsuthar/github-readme-quotes)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1ck49871&count_private=true&show_icons=true&theme=shadow_blue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ck49871&layout=donut&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -14,5 +14,3 @@ Olá!👋 Bem-vindo ao meu Github!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N1ck49871&theme=transparent&border_radius=5&card_width=1000)](https://git.io/streak-stats)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=skywalkerroggie&width=1000&count=5)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=That+which+does+not+kill+us+makes+us+stronger&author=Nietzsche)](https://github.com/piyushsuthar/github-readme-quotes)
