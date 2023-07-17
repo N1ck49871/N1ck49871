@@ -14,3 +14,6 @@ Olá!👋 Bem-vindo ao meu Github!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N1ck49871&theme=transparent&border_radius=5&card_width=1000)](https://git.io/streak-stats)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=skywalkerroggie)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=skywalkerroggie&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=skywalkerroggie&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=skywalkerroggie&unique={true|1|on|yes})
