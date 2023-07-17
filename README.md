@@ -13,4 +13,4 @@ Olá!👋 Bem-vindo ao meu Github!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ck49871&layout=donut&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N1ck49871&theme=transparent&border_radius=5&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N1ck49871&theme=transparent&border_radius=5&card_width=800)](https://git.io/streak-stats)
