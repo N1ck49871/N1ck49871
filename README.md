@@ -13,4 +13,4 @@ Olá!👋 Bem-vindo ao meu Github!
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N1ck49871&theme=transparent&border_radius=5&card_width=1000)](https://git.io/streak-stats)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=skywalkerroggie&width=1000&count=10)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=skywalkerroggie&width=1000&count=5)
