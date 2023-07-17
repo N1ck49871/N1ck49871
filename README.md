@@ -1,4 +1,3 @@
-Olá!👋 Bem-vindo ao meu Github!
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=That+which+does+not+kill+us+makes+us+stronger&author=Nietzsche)](https://github.com/piyushsuthar/github-readme-quotes)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1ck49871&count_private=true&show_icons=true&theme=shadow_blue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ck49871&layout=donut&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
