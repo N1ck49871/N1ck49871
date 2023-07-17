@@ -15,4 +15,4 @@ Olá!👋 Bem-vindo ao meu Github!
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N1ck49871&theme=transparent&border_radius=5&card_width=1000)](https://git.io/streak-stats)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=skywalkerroggie&width=1000&count=5)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=That_which_does_not_kill_us_makes_us_stronger)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=That+which+_does+_not+_kill+_us+_makes+_us+_stronger)](https://github.com/piyushsuthar/github-readme-quotes)
